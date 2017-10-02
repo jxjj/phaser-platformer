@@ -1,0 +1,15 @@
+{
+  "name": "phaser-platformer-20171001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files 'index.html,js/*.js,css/*.css'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Johnson <james_johnson@mcad.edu> (https://james.mn)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.18.13"
+  }
+}
